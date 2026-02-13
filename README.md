@@ -1,6 +1,6 @@
 ---
 
-```md
+
 # GitHub Shoppers — Full Stack Application
 
 Aplicação Full Stack desenvolvida com **Node.js, TypeScript, PostgreSQL e React**, implementando um sistema de catálogo e compras com decremento atômico de estoque, autenticação JWT e integração externa com a GitHub API.
